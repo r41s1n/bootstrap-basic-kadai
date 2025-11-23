@@ -174,12 +174,12 @@ p {
 }
 
 /* ----------------------------------------------- シェフ */
-.about::after {
+.chef::after {
   content: "シェフ"
 }
 
-.about_us_bg {
-  background-color: #fdf5e6;
+.chef_bg {
+  background-color: #FDF5E6;
 }
 
 
